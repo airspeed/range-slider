@@ -1,2 +1,2 @@
 # range-slider
-Swift slider with two pins
+RxSwift-based slider with two pins
